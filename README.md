@@ -31,7 +31,7 @@ foo x = x < 10  => "x was small"
 
 ## User space?
 
-Guards a usually compiler feature, its even one Elm had, but it was removed.
+Guards are usually compiler feature, its even one Elm had, but it was removed.
 There are 3 advantages to doing this in user space.
 
   - Functions are total, (there is no way to avoid providing a default)
