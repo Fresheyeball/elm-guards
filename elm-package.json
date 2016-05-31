@@ -1,0 +1,14 @@
+{
+    "version": "1.0.0",
+    "summary": "guards notation defined in user space",
+    "repository": "https://github.com/Fresheyeball/elm-guards.git",
+    "license": "BSD3",
+    "source-directories": [
+        "."
+    ],
+    "exposed-modules": [ "Guards" ],
+    "dependencies": {
+        "elm-lang/core": "4.0.1 <= v < 5.0.0"
+    },
+    "elm-version": "0.17.0 <= v < 0.18.0"
+}
